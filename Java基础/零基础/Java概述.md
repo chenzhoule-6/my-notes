@@ -145,3 +145,57 @@
 ![image-20231112012025229](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311120120304.png)
 
 ![image-20231112012051041](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311120120103.png)
+
+##### 10. Java API文档
+
+![image-20231113003504971](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311130035221.png)
+
+##### 11. 运算符
+
+* ![image-20231114002835850](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140028041.png)
+
+* ![image-20231114002937365](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140029495.png)
+
+* ![image-20231114003025535](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140030610.png)
+
+* ![image-20231114003107967](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140031219.png)
+
+* ![image-20231114003139974](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140031139.png)
+
+* ![image-20231114003218175](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140032328.png)
+
+* ![image-20231114003243718](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140032787.png)
+
+##### 12. 程序控制结构
+
+* 用next()输入字符串，相当于C语言中的scanf()，对输入有效字符之前遇到的空格键、Tab键或Enter键等结束符，next（）方法会自动将其去掉，只有在输入有效字符之后，next（）方法才将其后输入的空格键、Tab键或Enter键等视为分隔符或结束符，所以next方法不能得到带空格的字符串。
+
+  scanner.next()返回字符串
+
+  ![image-20231114003434381](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140034437.png)
+
+* 错误：不兼容的数据类型：string无法转化成char
+
+  ![image-20231114003553750](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140035797.png)
+
+* ![image-20231114003626240](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140036299.png)
+
+* ![image-20231114003659332](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140036383.png)
+
+* ![image-20231114003725363](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140037414.png)
+
+* ![image-20231114003746648](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140037724.png)
+
+* ![image-20231114003815176](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140038296.png)
+
+##### 13. 数组、排序和查找
+
+![image-20231114003950653](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140039741.png)
+
+![image-20231114004013438](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140040509.png)
+
+![image-20231114004049391](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140040461.png)
+
+![image-20231114004104167](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140041224.png)
+
+![image-20231114004118515](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140041592.png)
