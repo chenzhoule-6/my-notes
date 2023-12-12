@@ -156,6 +156,12 @@
 
 * ![image-20231114002937365](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140029495.png)
 
+* ![image-20231127103436060](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311271034172.png) 
+
+* ![image-20231127105219774](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311271052872.png)
+
+* ![image-20231127110039384](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311271100447.png)
+
 * ![image-20231114003025535](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140030610.png)
 
 * ![image-20231114003107967](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202311140031219.png)
