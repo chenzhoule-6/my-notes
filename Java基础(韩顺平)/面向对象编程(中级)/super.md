@@ -72,9 +72,9 @@ class B extends A{
     public void functionB() {
         System.out.println("这是子类的方法functionB");
         //可以使用三种方式调用父类的方法
-        functionA();//找functionA()方法时，先找本类，如果有且可以调用则直接调用，如果没有则找父类
+        functionA();//找functionA()方法时，先找本类，如果有且可以调用(本类都可以调用)则直接调用，如果没有则找父类，如果父类没有，则继续找父类的父类，直到object类。提示，如果查找的过程中，找到了，但是不能访问，则报错，如果查找方法的过程中，没有找到，则提示方法不存在。
         super.functionA();//直接查找父类
-        this.functionA();
+        this.functionA();//等价functionA()
 
         ok();
         this.ok();
