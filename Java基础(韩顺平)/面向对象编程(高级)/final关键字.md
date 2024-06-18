@@ -32,6 +32,10 @@
 
 ![16](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202403091044671.png) 
 
+```java
+final class A {
+```
+
 （5）
 
 ![17](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202403091044734.png) 
@@ -47,3 +51,7 @@
 ![3](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202403091047426.png) 
 
 ![4](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202403091047851.png) 
+
+
+
+![image-20240615102640213](https://raw.githubusercontent.com/chenzhoule-6/notes-images/main/202406151026262.png) 
