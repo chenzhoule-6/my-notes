@@ -1,0 +1,3 @@
+![image-20241006182449186](../notes-images/image-20241006182449186.png)
+
+![image-20241006182856671](../notes-images/image-20241006182856671.png)

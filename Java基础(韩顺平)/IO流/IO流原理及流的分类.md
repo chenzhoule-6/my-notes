@@ -113,9 +113,9 @@ public class FileInputStream_ {
 
 FileOutputStream
 
- ![未命名图片15](../notes-images/202406302331794.png) 
+![未命名图片15](../notes-images/202406302331794.png) 
 
- ![未命名图片16](../notes-images/202406302331377.png) 
+![未命名图片16](../notes-images/202406302331377.png) 
 
 ```java
 package com.czl.io;
@@ -150,7 +150,7 @@ public class FileOutputStream01 {
 
             //写入字符串
             String str = "czl,world!";
-            str.getBytes(); //可以把 字符串-> 字节数组
+            //str.getBytes(); //可以把 字符串-> 字节数组
             fileOutputStream.write(str.getBytes());
 
             /*

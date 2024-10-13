@@ -21,7 +21,7 @@ public class StringBuffer01 {
 }
 
 
-构造器：
+// 构造器：
 package com.czl.stringbuffer;
 
 public class StringBuffer02 {
@@ -66,7 +66,6 @@ public class StringAndStringBuffer {
         String s = stringBuffer3.toString();
         //方式2: 使用构造器来
         String s1 = new String(stringBuffer3);
-
     }
 }
 ```

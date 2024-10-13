@@ -65,7 +65,9 @@ public class ArraysMethod01 {
         System.out.println(Arrays.toString(arr));
     }
 }
+```
 
+```java
 public class ArraysSortCustom {
     public static void main(String[] args) {
 
@@ -141,7 +143,7 @@ public class ArraysMethod02 {
         System.out.println("==拷贝执行完毕后==");
         System.out.println(Arrays.toString(newArr));
 
-        //ill 数组元素的填充
+        //fill 数组元素的填充
         Integer[] num = new Integer[]{9,3,2};
         //1. 使用 99 去填充 num数组，可以理解成是替换原理的元素
         Arrays.fill(num, 99);
@@ -196,8 +198,8 @@ public class ArrayExercise {
 //                double priceVal = book2.getPrice() - book1.getPrice();
 //                //如果发现返回结果和我们输出的不一致，就修改一下返回的 1 和 -1
 //                if(priceVal > 0) {
-//                    return  1;
-//                } else  if(priceVal < 0) {
+//                    return 1;
+//                } else if(priceVal < 0) {
 //                    return -1;
 //                } else {
 //                    return 0;
